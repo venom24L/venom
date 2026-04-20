@@ -1,8 +1,3 @@
 name = "venom-vless-2026"
 main = "_worker.js"
-compatibility_date = "2026-04-01"
-keep_vars = true
-
-[[kv_namespaces]]
-binding = "amclubs"
-id = ""   # هتسيبه فاضي دلوقتي، هنعمل KV بعد الـ deploy
+compatibility_date = "2026-04-20"
