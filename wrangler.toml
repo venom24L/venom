@@ -1,4 +1,4 @@
-name = "venom-vless-2026"
+name = "venom"
 main = "_worker.js"
 compatibility_date = "2026-04-20"
 
