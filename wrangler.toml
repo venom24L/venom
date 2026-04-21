@@ -1,3 +1,6 @@
 name = "venom-vless-2026"
 main = "_worker.js"
 compatibility_date = "2026-04-20"
+
+[env.production]
+vars = { ADMIN = "31e5cd86-7ca1-4291-961e-07016708b1a4", VAR1 = "73195ea5-7b18-4317-9bdd-dfc21555f284", VAR2 = "6bab976f-6fee-4fc5-9d42-395cd08999b2", VAR3 = "e0ca99e9-4bb6-430a-8be9-c01dd2a6e7cd", VAR4 = "f8e8de7c-f530-439c-ab3d-d7cf3d1b8ae4" }
